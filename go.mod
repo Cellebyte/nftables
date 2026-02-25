@@ -15,3 +15,8 @@ require (
 	golang.org/x/net v0.43.0 // indirect
 	golang.org/x/sync v0.6.0 // indirect
 )
+
+replace (
+	github.com/mdlayher/netlink => github.com/cellebyte/netlink v1.9.0-rc.0
+	github.com/mdlayher/socket => github.com/cellebyte/socket v0.6.0-rc.0
+)

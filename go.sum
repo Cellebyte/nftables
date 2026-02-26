@@ -1,5 +1,5 @@
-github.com/cellebyte/netlink v1.9.0-rc.2 h1:jvXHLBon6QCnlljlZqn2txThfgpiM47AQrZEgG6Mm7M=
-github.com/cellebyte/netlink v1.9.0-rc.2/go.mod h1:JVS396/XsyadqrXigRedyb1Q7yEfSq95lheQxgyQ6xA=
+github.com/cellebyte/netlink v1.9.0-rc.4 h1:80FDE3VvRage2zf7ETSUudGGtSZB/lOT6C41Eklp3oc=
+github.com/cellebyte/netlink v1.9.0-rc.4/go.mod h1:JVS396/XsyadqrXigRedyb1Q7yEfSq95lheQxgyQ6xA=
 github.com/cellebyte/socket v0.6.0-rc.0 h1:b/YRSXa9RoOqLsXlX8Vnpg+5EJDn+LuFjAN3REd5U3I=
 github.com/cellebyte/socket v0.6.0-rc.0/go.mod h1:TjPLHI1UgwEv5J1B5q0zTZq12A/6H7nKmtTanQE37IQ=
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=

@@ -17,6 +17,6 @@ require (
 )
 
 replace (
-	github.com/mdlayher/netlink => github.com/cellebyte/netlink v1.9.0-rc.2
+	github.com/mdlayher/netlink => github.com/cellebyte/netlink v1.9.0-rc.4
 	github.com/mdlayher/socket => github.com/cellebyte/socket v0.6.0-rc.0
 )
